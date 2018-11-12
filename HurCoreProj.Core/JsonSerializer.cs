@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Net.Mime;
-using HurCoreProj.Data.Models;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
 namespace HurCoreProj.Core
 {
